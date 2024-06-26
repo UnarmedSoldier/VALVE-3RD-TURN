@@ -1,11 +1,10 @@
 # VALVE-3RD-TURN
 #FREEVALVE  https://discord.gg/q7RYfmje
-https://steamcommunity.com/app/440/discussions/0/4406290986178481007/
 
 
 # If you are here, you are a Valve End-User who wants to see Valve do better.
 
-# If you are a User who has spent money on Steam, you are Valve's Investor Funding.
+# If you are a User who has spent money on Steam, you have invested in Valve to receive expected services.
 
 # If you are an employee for Valve, or your company is Affiliated with Valve, you may have had problems related to Valve, whether on or off premesis.
 
@@ -21,7 +20,7 @@ The problem is, If you are Valve, this is an awful position to be in.
 
 While Valve has a large, large market in PC gaming, there is a problem.  
 
-A new game is released, instantly has high rank botting, making anything other than pub stomps impossible for good players.  At times, solely Pro Players.
+A new game is released, instantly has high rank botting, ruining the game for high ELO players and breaking the ranking system in practice.
 
 Recently, a Public Display of a cheat engine was used to invade a Tournament Match of Apex Legends, a game famously known for being based on the source engine.
 
@@ -31,7 +30,7 @@ And, that exact Foreign Investment might be able to purchase Valve in the same w
 
 Valve owns many things currently that they could be using to change the face of gaming, and they intentionally refuse to acknowledge that anything is right, wrong, or otherwise.
 
-The current bot problem across games, not to mention other IP's from other companies encouraging equally negative behaviour for the platform, as well as the lack of communications from Valve have left Us, The UserBase of Steam, no choice but to collaborate to find a solution.  I have a proposal that I will list as "Proposal 1: The OpenForum", and anyone else is welcome to submit ideas, or add to / edit a document, given that the submission is not a complete troll.  Standard Github rules apply here.  Act the fool and you will be removed, but lets hope nothing lioke that has to happen.
+The current bot problem across games, not to mention other IP's from other companies encouraging equally negative behaviour for the platform, as well as the lack of communications from Valve have left Us, The UserBase of Steam, no choice but to collaborate to find a solution.  I have a proposal that I will list as "Proposal 1: The OpenForum", and anyone else is welcome to submit ideas, or add to / edit a document, given that the submission is not a complete troll.  Standard Github rules apply here.  If you make no sense you will be removed, but lets hope nothing like that has to happen.
 
 # What can I do while a proposal is worked out?
 
